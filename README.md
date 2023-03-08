@@ -2,7 +2,7 @@
 
 ## Description
 
-This project focused on making updates and improvements to the existing code in order to optimize this landing page for search engines and adhere to accessbility standards.
+This project focused on making updates and improvements to the existing code in order to optimize this landing page for search engines and adhere to accessbility standards. I updated semantic tagging, reordered heading tags, eliminated redundancies where appropriate, and made repairs to linking. 
 
 ## Installation
 
